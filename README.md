@@ -14,7 +14,8 @@
 ## 文件说明
 - **`client.py`**：适配了 OpenAI SDK 的 MCP Client。
 - **`client_new.py`**：为解决我在Windows遇到的问题而适配的版本。
-
+- **`client_20250316.py`**：增加了日志以及增加接收来自server的一些特定消息。请看我的[知乎文章-深入研究MCP Client- Server生命周期](https://zhuanlan.zhihu.com/p/30515707345) ，里面详细介绍了这个MCP Client的Server生命周期。
+- **`weather_new.py`**：增加了模拟动态更新server工具的代码。与`client_20250316.py`一起使用。
 ---
 
 ## 遇到的问题
