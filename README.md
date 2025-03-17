@@ -19,7 +19,7 @@
 ---
 
 ## 遇到的问题
-在构建过程中，我遇到了一些问题。具体可以阅读下我的知乎文章[如何构建自己的MCP Client]([https://www.zhihu.com/column/c_1883808228573418480](https://zhuanlan.zhihu.com/p/29695874893))，也可以持续关注我的[MCP专栏](https://www.zhihu.com/column/c_1883808228573418480)
+在构建过程中，我遇到了一些问题。具体可以阅读下我的知乎文章[如何构建自己的MCP Client](https://zhuanlan.zhihu.com/p/29695874893)，也可以持续关注我的[MCP专栏](https://www.zhihu.com/column/c_1883808228573418480)
 
 ![问题截图](https://github.com/user-attachments/assets/f7f89944-fcea-4260-869b-0e3621f396af)
 
